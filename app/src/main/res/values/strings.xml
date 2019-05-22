@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CakeListApp</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="favourites">Favourites</string>
+    <string name="cakes">Cakes</string>
+</resources>
